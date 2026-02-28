@@ -1,20 +1,57 @@
-![Youssef's Animated Banner](https://gemini-images-prd.oss-cn-hangzhou.aliyuncs.com/file_manager/v1/user_data/b41d06e2-e190-48e0-bb8e-171739c91f1a/image_0.png)
+<!-- ===================== CLEAN ELITE AI PROFILE ===================== -->
 
-# Hello there! I'm Youssef Hany Kamel Ibrahim 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:141E30,100:243B55&height=280&section=header&text=Engineer%20Youssef&fontSize=55&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Artificial%20Intelligence%20Developer&descAlignY=55&descAlign=50"/>
+</p>
 
-## 🚀 About Me
-- 🎓 Studying Artificial Intelligence (AI - Section 8) at Helwan International University of Technology (HITU).
-- 💻 Passionate about Data Science, Machine Learning, and Web Development.
-- 🧠 Deeply interested in Natural Language Processing (NLP).
-- 🔭 Currently building a **"Medical Report Simplifier"** application.
-- 🤝 Proud member of the university project team **"The Avengers"**.
-
-## 🛠️ Tech Stack & Skills
-- **Programming Languages:** Python, Java
-- **Core Focus:** AI, NLP, Data Science, Web Development
-
-## ⚡ Fun Fact
-When I'm not coding, you'll probably find me cheering for the Netherlands national football team! 🇳🇱⚽
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=900&color=00F5FF&center=true&vCenter=true&width=800&lines=Youssef+Hany+Kamel+Ibrahim;Artificial+Intelligence+Student;Data+Science+%7C+Machine+Learning+%7C+NLP;Building+Medical+Report+Simplifier;Proud+Member+of+The+Avengers" />
+</p>
 
 ---
-📫 **How to reach me:** [ضيف لينك الـ LinkedIn أو الإيميل بتاعك هنا]
+
+## 🚀 About Me
+
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+- 🎓 Studying Artificial Intelligence at Helwan International University of Technology  
+- 🤖 Focused on Data Science & Machine Learning  
+- 🧠 Specialized in Natural Language Processing (NLP)  
+- 🏥 Currently building **Medical Report Simplifier**  
+- 🛡️ Proud member of **The Avengers** university team  
+- ⚽ Huge fan of the Netherlands National Football Team 🇳🇱  
+
+---
+
+## 🧠 Current Project
+
+### 🏥 Medical Report Simplifier
+
+> AI-powered system that converts complex medical reports into simple, easy-to-understand language using NLP & ML.
+
+⚡ Core Focus:
+- Text Preprocessing  
+- Model Training  
+- Intelligent Simplification  
+- Real-world Healthcare Impact  
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,git,github&theme=dark" />
+</p>
+
+---
+
+## 📫 Contact Me
+
+<p align="center">
+  <a href="mailto:ywsfabwalmjd133@gmail.com">
+    <img src="https://img.shields.io/badge/Email-00F5FF?style=for-the-badge&logo=gmail&logoColor=black"/>
+  </a>
+  <a href="https://github.com/ywsfabwalmjd133">
+    <img src="https://img.shields.io/badge/GitHub-00F5FF?style=for-the-badge&logo=github&logoColor=black"/>
+  </a>
+</p>
