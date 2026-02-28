@@ -51,7 +51,7 @@
   <a href="mailto:ywsfabwalmjd133@gmail.com">
     <img src="https://img.shields.io/badge/Email-00F5FF?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
-  <a href="https://github.com/ywsfabwalmjd133">
+  <a href="https://github.com/ywsfabwalmjd133-cpu">
     <img src="https://img.shields.io/badge/GitHub-00F5FF?style=for-the-badge&logo=github&logoColor=black"/>
   </a>
 </p>
